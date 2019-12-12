@@ -26,3 +26,6 @@ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
 ### Machine Learning (Stanford University)
 https://www.coursera.org/learn/machine-learning
+
+## Intro to Machine Learning 
+https://www.udacity.com/course/intro-to-machine-learning--ud120
