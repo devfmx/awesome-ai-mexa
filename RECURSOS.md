@@ -44,3 +44,11 @@ https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xV
 
 ### Curso de Algebra Lineal de MIT
 https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
+## Courses
+
+### Machine Learning (Stanford University)
+https://www.coursera.org/learn/machine-learning
+
+## Intro to Machine Learning 
+https://www.udacity.com/course/intro-to-machine-learning--ud120
