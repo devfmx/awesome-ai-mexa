@@ -17,3 +17,12 @@ https://github.com/AccelAI
 
 ### Algegra Lineal 1 week
 https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+### Curso de Algebra Lineal de MIT
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
+
+## Courses
+
+### Machine Learning (Stanford University)
+https://www.coursera.org/learn/machine-learning
