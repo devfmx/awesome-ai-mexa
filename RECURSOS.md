@@ -4,7 +4,11 @@
 https://www.manning.com/books/grokking-machine-learning
 
 ## Youtube Channels
-1. Luis Serrano
+
+1. Siraj Raval
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/about
+
+2. Luis Serrano
 https://www.youtube.com/c/LuisSerrano
 
 ## Github repos
@@ -50,5 +54,10 @@ https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 ### Machine Learning (Stanford University)
 https://www.coursera.org/learn/machine-learning
 
-## Intro to Machine Learning 
+### Intro to Machine Learning 
 https://www.udacity.com/course/intro-to-machine-learning--ud120
+
+## Videos
+
+### TensorFlow in 5 minutes
+https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
